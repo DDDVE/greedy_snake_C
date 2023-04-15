@@ -1,0 +1,1 @@
+C:\vs\projects\greedy_snake\x64\Debug\greedy_snake.exe
